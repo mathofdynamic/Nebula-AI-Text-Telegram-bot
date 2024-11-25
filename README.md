@@ -55,7 +55,7 @@ Follow these steps to set up the bot on your machine:
 
 ### 1. Clone the Repository
 Use Git to clone the project repository:
-git clone https://github.com/your-username/nebula-text-ai-bot.git
+git clone https://github.com/mathofdynamic/nebula-text-ai-bot.git
 cd nebula-text-ai-bot
 2. Install Required Dependencies
 Install all necessary Python libraries:
@@ -113,7 +113,7 @@ Fork the repository.
 Clone your forked repository:
 bash
 Copy code
-git clone https://github.com/your-username/nebula-text-ai-bot.git
+git clone https://github.com/mathofdynamic/nebula-text-ai-bot.git
 Create a Branch for your changes:
 bash
 Copy code
