@@ -82,17 +82,21 @@ Run the bot script:
 bash
 Copy code
 python bot.py
-💡 Usage
+## 💡 Usage
+
 Once the bot is running, add it to your Telegram account and start using the commands listed below. Each command processes text directly in your chat with the bot.
 
-Commands and Their Functions
-Command	Description
-/start	Displays a welcome message and usage instructions.
-/friendly [text]	Rephrases text to sound warm and approachable.
-/professional [text]	Rephrases text to suit formal communication.
-/creative [text]	Adds a unique, imaginative tone to your text.
-/summarize [text]	Provides a brief summary of the input text.
-/keypoints [text]	Extracts key points from the input text.
+### Commands and Their Functions
+
+| Command               | Description                                     |
+|-----------------------|-------------------------------------------------|
+| `/start`              | Displays a welcome message and usage instructions. |
+| `/friendly [text]`    | Rephrases text to sound warm and approachable.   |
+| `/professional [text]`| Rephrases text to suit formal communication.     |
+| `/creative [text]`    | Adds a unique, imaginative tone to your text.    |
+| `/summarize [text]`   | Provides a brief summary of the input text.      |
+| `/keypoints [text]`   | Extracts key points from the input text.         |
+
 Example Interaction
 Here’s an example of how the bot can transform text:
 
