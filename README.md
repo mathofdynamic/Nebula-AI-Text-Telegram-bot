@@ -33,7 +33,6 @@ This bot comes with a variety of powerful features:
 Want to see the bot in action? Check out these resources:
 
 - **Telegram Bot**: [Add the bot to your Telegram account](#) *(Replace with actual link)*.
-- **Demo Video**: [Watch a walkthrough](#) *(Replace with actual link)* showcasing its features and functionality.
 
 ---
 
